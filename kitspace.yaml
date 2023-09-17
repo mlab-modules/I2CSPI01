@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/I2CSPI01
-summary: null
+summary: Allows connection of SPI devices to I2C bus and is capable co handle up to
+  four SPI slaves. Not used chip-select pins can be used as GPIO pins.

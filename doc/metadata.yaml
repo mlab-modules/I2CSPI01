@@ -1,4 +1,5 @@
-description: null
+description: Allows connection of SPI devices to I2C bus and is capable co handle
+  up to four SPI slaves. Not used chip-select pins can be used as GPIO pins.
 github_branch: I2CSPI01A
 github_repo: I2CSPI01
 github_url: https://github.com/mlab-modules/I2CSPI01
