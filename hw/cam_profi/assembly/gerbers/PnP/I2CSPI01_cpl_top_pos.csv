@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","JUMP_3X2","Pin_Header_Straight_2x03",-85.7250,159.2580,90.0000,top
+"J2","JUMP_5X2","Pin_Header_Straight_2x05",-95.8850,172.2120,180.0000,top
+"J3","JUMP_7X2","Pin_Header_Straight_2x07",-105.9180,157.0990,90.0000,top
+"J4","JUMP_3X2","Pin_Header_Straight_2x03",-85.7250,149.8600,90.0000,top
+"J5","CONN_2","Pin_Header_Straight_1x02",-93.0910,164.5920,0.0000,top
+"J6","CONN_2","Pin_Header_Straight_1x02",-98.4250,141.7320,-90.0000,top
+"J7","CONN_2","Pin_Header_Straight_1x02",-96.1390,141.7320,90.0000,top
+"P1","_","MountingHole_3mm",-85.7250,141.6050,0.0000,top
+"P2","_","MountingHole_3mm",-106.0450,172.0850,0.0000,top
+"P3","_","MountingHole_3mm",-106.0450,141.6050,0.0000,top
+"P4","_","MountingHole_3mm",-85.7250,172.0850,0.0000,top

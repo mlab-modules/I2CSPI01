@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","100nF","SMD-0805",-94.6150,150.1140,-90.0000,bottom
+"C2","10uF","SMD-0805",-91.8210,150.1140,-90.0000,bottom
+"D1","BZV55C-3,6V","Diode-MiniMELF_Standard",-91.0590,145.6690,90.0000,bottom
+"J1","JUMP_3X2","Pin_Header_Straight_2x03",-85.7250,159.2580,90.0000,top
+"J2","JUMP_5X2","Pin_Header_Straight_2x05",-95.8850,172.2120,180.0000,top
+"J3","JUMP_7X2","Pin_Header_Straight_2x07",-105.9180,157.0990,90.0000,top
+"J4","JUMP_3X2","Pin_Header_Straight_2x03",-85.7250,149.8600,90.0000,top
+"J5","CONN_2","Pin_Header_Straight_1x02",-93.0910,164.5920,0.0000,top
+"J6","CONN_2","Pin_Header_Straight_1x02",-98.4250,141.7320,-90.0000,top
+"J7","CONN_2","Pin_Header_Straight_1x02",-96.1390,141.7320,90.0000,top
+"P1","_","MountingHole_3mm",-85.7250,141.6050,0.0000,top
+"P2","_","MountingHole_3mm",-106.0450,172.0850,0.0000,top
+"P3","_","MountingHole_3mm",-106.0450,141.6050,0.0000,top
+"P4","_","MountingHole_3mm",-85.7250,172.0850,0.0000,top
+"R1","10k","SMD-0805",-94.1070,167.7670,180.0000,bottom
+"R2","10k","SMD-0805",-97.7900,167.7670,0.0000,bottom
+"R3","0R","SMD-0805",-97.5360,147.8280,0.0000,bottom
+"R4","10k","SMD-0805",-90.4240,154.3050,90.0000,bottom
+"R5","-","SMD-0805",-97.5360,150.2410,180.0000,bottom
+"R6","10k","SMD-0805",-100.0760,145.6690,180.0000,bottom
+"R7","10k","SMD-0805",-94.9960,145.6690,0.0000,bottom
+"U1","SC18IS602B","TSSOP-16",-95.9739,156.4386,0.0000,bottom
