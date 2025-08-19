@@ -10,10 +10,19 @@ images:
 - doc/img/I2CSPI01A_top_big.jpg
 - doc/img/I2CSPI01A_top_small.jpg
 - doc/img/I2CSPI01A_QRcode.png
+- doc/gen/img/I2CSPI01-bottom.png
+- doc/gen/img/I2CSPI01-top.png
+- hw/cam_profi/assembly/I2CSPI01-assembly_page_02.svg
+- hw/cam_profi/assembly/I2CSPI01-assembly_page_01.svg
+- doc/gen/I2CSPI01-schematic.svg
+- doc/gen/img/I2CSPI01-top.svg
+- doc/gen/img/I2CSPI01-bottom.svg
 mark: 50
+mod_ibom: hw/cam_profi/I2CSPI01-ibom.html
+mod_scheme: doc/gen/I2CSPI01-schematic.pdf
 status: 2
 tags:
 - mlab
 - mlab-module
 title: I2CSPI01
-updated: '2025-08-19T23:01:40.440009+00:00'
+updated: '2025-08-19T23:03:40.729177+00:00'
