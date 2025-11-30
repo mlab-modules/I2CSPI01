@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/I2CSPI01.kicad_sch</source>
-    <date>2025-08-19T23:03:06+0000</date>
-    <tool>Eeschema 9.0.1+1</tool>
+    <date>2025-11-30T21:00:30+0000</date>
+    <tool>Eeschema 9.0.6+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -27,9 +27,10 @@
     <comp ref="C1">
       <value>100nF</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="C_3" description=""/>
@@ -42,9 +43,10 @@
     <comp ref="C2">
       <value>10uF</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="C_4" description=""/>
@@ -57,9 +59,10 @@
     <comp ref="D1">
       <value>BZV55C-3,6V</value>
       <footprint>MLAB_D:Diode-MiniMELF_Standard</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">MLAB_D:Diode-MiniMELF_Standard</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="ZENER_2" description=""/>
@@ -100,9 +103,10 @@
     <comp ref="J3">
       <value>JUMP_7X2</value>
       <footprint>Hrebinky:Pin_Header_Straight_2x07</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Hrebinky:Pin_Header_Straight_2x07</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="JUMP_7X2_2" description=""/>
@@ -226,9 +230,10 @@
     <comp ref="R1">
       <value>10k</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="R_10" description=""/>
@@ -241,9 +246,10 @@
     <comp ref="R2">
       <value>10k</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="R_9" description=""/>
@@ -256,9 +262,10 @@
     <comp ref="R3">
       <value>0R</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="R_14" description=""/>
@@ -271,9 +278,10 @@
     <comp ref="R4">
       <value>10k</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="R_8" description=""/>
@@ -286,9 +294,10 @@
     <comp ref="R5">
       <value>-</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="R_13" description=""/>
@@ -301,9 +310,10 @@
     <comp ref="R6">
       <value>10k</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="R_11" description=""/>
@@ -316,9 +326,10 @@
     <comp ref="R7">
       <value>10k</value>
       <footprint>SMD_Packages:SMD-0805</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">SMD_Packages:SMD-0805</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="" part="R_12" description=""/>
